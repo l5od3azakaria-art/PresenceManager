@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PresenceManager</string>
+    <string name="description">Application de gestion des presence des stagiares</string>
+    <string name="button">Commencer appel</string>
+    <string name="pied_de_page">PresenceManger-Version 1.0</string>
+</resources>
